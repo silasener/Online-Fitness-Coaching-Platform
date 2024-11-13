@@ -79,3 +79,4 @@ The FitLife platform comprises several key features:
 - Regularly update the documentation to reflect any changes or improvements in the project.
 
 
+# OnlineFitnessPlatform
